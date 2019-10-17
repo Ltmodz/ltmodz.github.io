@@ -1,0 +1,15 @@
+.btn
+{
+    padding: 10px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+
+}
+.btn-primary
+{
+    background: #0E65E5;
+    color: #fff;
+    font-weight: 600;
+}
